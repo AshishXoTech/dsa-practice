@@ -44,6 +44,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AshishXoTech/dsa-practice/tree/master/0058-length-of-last-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
