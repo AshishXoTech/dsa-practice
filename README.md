@@ -7,6 +7,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AshishXoTech/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +62,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
