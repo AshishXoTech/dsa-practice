@@ -16,6 +16,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -31,6 +32,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -88,10 +90,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +116,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -124,4 +129,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
