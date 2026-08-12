@@ -20,6 +20,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -28,6 +29,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0001-two-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -148,4 +150,8 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
