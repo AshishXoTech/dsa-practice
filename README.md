@@ -8,6 +8,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0001-two-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +90,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
@@ -154,4 +157,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
