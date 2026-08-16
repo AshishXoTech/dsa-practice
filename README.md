@@ -39,6 +39,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
@@ -171,4 +172,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
