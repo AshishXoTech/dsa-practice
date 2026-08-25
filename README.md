@@ -50,6 +50,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -93,6 +94,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0058-length-of-last-word](https://github.com/AshishXoTech/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,5 +206,6 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
