@@ -21,6 +21,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AshishXoTech/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -66,6 +67,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -188,6 +190,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
