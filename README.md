@@ -101,6 +101,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/AshishXoTech/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
