@@ -26,6 +26,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishXoTech/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,6 +129,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishXoTech/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
