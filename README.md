@@ -12,6 +12,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AshishXoTech/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0067-add-binary](https://github.com/AshishXoTech/dsa-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
