@@ -37,6 +37,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3731-find-missing-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
