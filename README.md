@@ -91,6 +91,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
@@ -134,6 +135,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0031-next-permutation](https://github.com/AshishXoTech/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -160,10 +162,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -225,6 +229,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AshishXoTech/dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
