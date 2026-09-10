@@ -243,4 +243,16 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0067-add-binary](https://github.com/AshishXoTech/dsa-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
