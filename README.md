@@ -15,6 +15,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AshishXoTech/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -46,6 +47,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0001-two-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,6 +101,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -111,6 +114,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -130,6 +134,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -171,6 +176,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0148-sort-list](https://github.com/AshishXoTech/dsa-practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -180,6 +186,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -267,4 +274,5 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
