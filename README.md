@@ -70,6 +70,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AshishXoTech/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/AshishXoTech/dsa-practice/tree/master/2235-add-two-integers) |
@@ -277,4 +278,8 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AshishXoTech/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
