@@ -72,6 +72,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshishXoTech/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/AshishXoTech/dsa-practice/tree/master/2235-add-two-integers) |
@@ -97,6 +98,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0136-single-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
