@@ -7,6 +7,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AshishXoTech/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AshishXoTech/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AshishXoTech/dsa-practice/tree/master/0075-sort-colors) |
@@ -131,6 +132,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AshishXoTech/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AshishXoTech/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshishXoTech/dsa-practice/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
@@ -294,4 +296,8 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshishXoTech/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AshishXoTech/dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
