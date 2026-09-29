@@ -16,6 +16,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AshishXoTech/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AshishXoTech/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0001-two-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AshishXoTech/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
@@ -256,6 +258,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishXoTech/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
