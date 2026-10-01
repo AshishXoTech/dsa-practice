@@ -140,6 +140,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshishXoTech/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AshishXoTech/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshishXoTech/dsa-practice/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
@@ -234,12 +235,14 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshishXoTech/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshishXoTech/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
