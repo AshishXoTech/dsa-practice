@@ -89,6 +89,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/AshishXoTech/dsa-practice/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/AshishXoTech/dsa-practice/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishXoTech/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
