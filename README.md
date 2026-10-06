@@ -155,6 +155,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/AshishXoTech/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshishXoTech/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -191,6 +192,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0502-ipo](https://github.com/AshishXoTech/dsa-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AshishXoTech/dsa-practice/tree/master/0621-task-scheduler) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
@@ -250,6 +252,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshishXoTech/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -258,6 +261,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshishXoTech/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
