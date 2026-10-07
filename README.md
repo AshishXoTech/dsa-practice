@@ -60,6 +60,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AshishXoTech/dsa-practice/tree/master/0621-task-scheduler) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -153,6 +154,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0058-length-of-last-word](https://github.com/AshishXoTech/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshishXoTech/dsa-practice/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -173,6 +175,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AshishXoTech/dsa-practice/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -342,4 +345,8 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishXoTech/dsa-practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
