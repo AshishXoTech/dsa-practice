@@ -156,6 +156,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0383-ransom-note](https://github.com/AshishXoTech/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/AshishXoTech/dsa-practice/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishXoTech/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishXoTech/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
