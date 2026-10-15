@@ -37,6 +37,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishXoTech/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishXoTech/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -65,6 +66,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0621-task-scheduler](https://github.com/AshishXoTech/dsa-practice/tree/master/0621-task-scheduler) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AshishXoTech/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishXoTech/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -354,4 +356,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishXoTech/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishXoTech/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
