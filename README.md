@@ -28,6 +28,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0912-sort-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AshishXoTech/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AshishXoTech/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -292,6 +293,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
@@ -335,6 +337,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -373,4 +376,12 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AshishXoTech/dsa-practice/tree/master/0258-add-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
