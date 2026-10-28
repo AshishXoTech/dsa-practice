@@ -51,6 +51,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3731-find-missing-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishXoTech/dsa-practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -121,6 +122,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0137-single-number-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AshishXoTech/dsa-practice/tree/master/1486-xor-operation-in-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishXoTech/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
