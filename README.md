@@ -20,6 +20,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/AshishXoTech/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/AshishXoTech/dsa-practice/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishXoTech/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshishXoTech/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -135,6 +137,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0217-contains-duplicate](https://github.com/AshishXoTech/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshishXoTech/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishXoTech/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/AshishXoTech/dsa-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AshishXoTech/dsa-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
