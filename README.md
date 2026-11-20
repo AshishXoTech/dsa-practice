@@ -186,6 +186,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AshishXoTech/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/AshishXoTech/dsa-practice/tree/master/1927-sum-game) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AshishXoTech/dsa-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishXoTech/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
