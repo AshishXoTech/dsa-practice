@@ -45,6 +45,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishXoTech/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishXoTech/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AshishXoTech/dsa-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,6 +80,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishXoTech/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AshishXoTech/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -190,6 +192,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishXoTech/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -353,11 +356,13 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AshishXoTech/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshishXoTech/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
