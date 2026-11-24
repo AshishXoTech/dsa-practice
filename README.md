@@ -47,6 +47,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishXoTech/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AshishXoTech/dsa-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishXoTech/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AshishXoTech/dsa-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AshishXoTech/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -111,6 +112,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishXoTech/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AshishXoTech/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshishXoTech/dsa-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AshishXoTech/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -278,6 +280,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishXoTech/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -324,6 +327,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshishXoTech/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishXoTech/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishXoTech/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AshishXoTech/dsa-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Quicksort
 |  |
@@ -403,6 +407,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AshishXoTech/dsa-practice/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Breadth-First Search
 |  |
 | ------- |
