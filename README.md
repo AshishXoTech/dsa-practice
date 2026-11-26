@@ -112,6 +112,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishXoTech/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/AshishXoTech/dsa-practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AshishXoTech/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AshishXoTech/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshishXoTech/dsa-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -355,6 +356,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [0258-add-digits](https://github.com/AshishXoTech/dsa-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AshishXoTech/dsa-practice/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/AshishXoTech/dsa-practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishXoTech/dsa-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishXoTech/dsa-practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
