@@ -61,6 +61,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishXoTech/dsa-practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -232,6 +233,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishXoTech/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshishXoTech/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Daily DSA practice — brute force + optimized solutions, topic-wise
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/AshishXoTech/dsa-practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/AshishXoTech/dsa-practice/tree/master/1872-stone-game-viii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshishXoTech/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AshishXoTech/dsa-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
